@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDMarket</string>
+    <string name="user_default">Login</string>
+    <string name="passwd">senha</string>
+    <string name="forgot">Esqueci minha senha/login</string>
+    <string name="enter">ENTRAR</string>
+</resources>
